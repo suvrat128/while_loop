@@ -23,6 +23,6 @@ example:
 	summ = 0
 	while n > 0:
 		rem = n%10
-    		n=n//10
-    		summ+=rem
+    	n=n//10
+    	summ+=rem
 	print(summ)
