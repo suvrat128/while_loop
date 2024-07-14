@@ -26,3 +26,29 @@ example:
     	n=n//10
     	summ+=rem
 	print(summ)
+
+ Special statements of loop:
+ 
+1. break
+   
+	It is used for terminating the execution of loop
+	Break can be used with both for and while loop
+
+First operation after that breaking the loop
+Using while loop:
+
+	a=1
+	While a<11:
+ 	print(a)
+	if a==5:
+	     break
+	a+=1
+ First breaking next operation
+
+ 	a=1
+	While a<11:
+	if a==5:
+	     break
+	print(a)
+	a+=1
+
