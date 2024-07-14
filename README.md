@@ -73,4 +73,24 @@ Ex: using while loop
 	print(a)
 	a+=1
 
+3. pass:
+   
+1. Pass is used for creating empty blocks without any errors 
+2. This empty block can be used for writhing code in features
+3. Pass can be used with if, for , while, function, class, method
+
+ex1:
+	
+ 		If 1>0:
+		pass
+ex2:
+
+		For I in range(1,11):
+		pass
+ex3:
+
+		Def hai()
+		pass
+
+
 
