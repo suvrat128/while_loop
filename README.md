@@ -52,3 +52,25 @@ Using while loop:
 	print(a)
 	a+=1
 
+ 2. continue:
+
+It is used for skipping current iteration of loop
+
+Ex: using for loop
+
+	For I in range(1,11):
+	if I==5:
+		continue
+	print(I)
+
+Ex: using while loop
+	
+ 	a=1
+	While a<11:
+	if a==5:
+		a+=1
+		continue
+	print(a)
+	a+=1
+
+
