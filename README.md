@@ -79,15 +79,15 @@ Ex: using while loop
 2. This empty block can be used for writhing code in features
 3. Pass can be used with if, for , while, function, class, method
 
-ex1:
+ex1: in conditional statment
 	
  		If 1>0:
 		pass
-ex2:
+ex2: in looping statment
 
 		For I in range(1,11):
 		pass
-ex3:
+ex3: in function 
 
 		Def hai()
 		pass
