@@ -1,4 +1,4 @@
-# wap to check given number is plandrome or not
+# wap to check given number is palindrome or not
 
 n = int(input())
 rev =0
@@ -8,6 +8,6 @@ while dummy>0:
     dummy//=10
     rev = rev*10+rem
 if n == rev:
-    print('number is planderome')
+    print('number is palinderome')
 else:
-    print('not a plandrome')
+    print('not a palindrome')
